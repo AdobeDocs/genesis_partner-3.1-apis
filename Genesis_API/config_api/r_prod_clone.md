@@ -1,5 +1,7 @@
 # Product.Clone
 
+**NOTE - This API has been sunset as of August, 2018.**
+
 Creates a new Data Connectors product based on an existing product.
 
 This is useful when you need to update a product integration due to a new release.

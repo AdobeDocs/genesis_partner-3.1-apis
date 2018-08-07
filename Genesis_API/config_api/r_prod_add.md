@@ -1,5 +1,7 @@
 # Product.Add
 
+**NOTE - This API has been sunset as of August, 2018.**
+
 Creates a new Data Connectors product.
 
 A Data Connectors Product does the following:
